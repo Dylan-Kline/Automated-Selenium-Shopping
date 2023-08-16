@@ -1,6 +1,6 @@
 # Web Automation for Keycap Shopping
 
-This Python-based project uses Selenium WebDriver to automatically navigate to a particular keycap selling website, checks for the availability of specified keycaps, and adds them to the cart.
+This Python-based project uses Selenium WebDriver to automatically navigate to the Cannonkeys website, checks for the availability of specified keycaps, and adds them to the cart.
 
 ## Background
 
