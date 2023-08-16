@@ -12,10 +12,10 @@ The journey taught me about planning and designing a program from scratch. Witho
 
 ## Features
 
-    **Stock Check**: Monitors the availability of the desired keycap set on the website and adds it to the cart if available.
-    **Automated Checkout**: Proceeds to the checkout page and fills in the necessary details for purchase.
-    **User Login**: Logs in the user using the provided email and password.
-    **Payment Info**: Automates the process of entering payment details.
+    Stock Check: Monitors the availability of the desired keycap set on the website and adds it to the cart if available.
+    Automated Checkout: Proceeds to the checkout page and fills in the necessary details for purchase.
+    User Login: Logs in the user using the provided email and password.
+    Payment Info: Automates the process of entering payment details.
 
 ## Installation and Setup
 Prerequisites
@@ -28,5 +28,5 @@ Prerequisites
 
 ## Known Issues and Future Enhancements
 
-  - The website structure changes frequently, which might render some parts of the automation ineffective.
-  - As I continue to learn and grow in programming, I realize that some portions of the code can be more concise and efficient.
+      The website structure changes frequently, which might render some parts of the automation ineffective.
+      As I continue to learn and grow in programming, I realize that some portions of the code can be more concise and efficient.
