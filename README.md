@@ -28,5 +28,5 @@ Prerequisites
 
 ## Known Issues and Future Enhancements
 
-      The website structure changes frequently, which might render some parts of the automation ineffective.
-      As I continue to learn and grow in programming, I realize that some portions of the code can be more concise and efficient.
+- The website structure changes frequently, which might render some parts of the automation ineffective.
+- As I continue to learn and grow in programming, I realize that some portions of the code can be more concise and efficient.
