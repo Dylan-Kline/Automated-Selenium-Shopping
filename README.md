@@ -25,6 +25,11 @@ Prerequisites
     Firefox web browser
     Gecko driver for Selenium (set your path in the PATH variable inside the script)
 
+How to run
+
+    Clone this repository.
+    Navigate to the directory.
+    Run the script: python script_name.py
 
 ## Known Issues and Future Enhancements
 
